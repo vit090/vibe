@@ -61,3 +61,4 @@ Every prompt asked in the chat session that built this project, in order:
 25. where i set the player hurtbox radius?
 26. yes please
 27. make a build, or a script to build, make sure it will work on git hub pages. then create a read.me with all prompts i asked this chat in order
+...
